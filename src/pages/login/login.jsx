@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from'./images/Logo.jpg'
-import './login.less'
+import './login.css'
  
 export default class Login extends Component {
     render(){

@@ -2,7 +2,7 @@
 # Introduction
  This is a project for web development corse 
 ## group member
-Zijian Zhou 6128492
+Zijian Zhou 6128492  Jicheng Xu 6117561
 ## Server-side 
 This backend repository for server side is：https://github.com/Garrukzijian/server-project-2
 ## Project description
